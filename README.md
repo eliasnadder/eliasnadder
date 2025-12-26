@@ -8,77 +8,37 @@
   <img src="https://img.shields.io/badge/Lucide_React-0.562.0-000000?style=for-the-badge&logo=lucide" alt="Lucide React" />
 </div>
 
+## � About Me
+
 <div align="center">
-  <h3>Building Cross-Platform Digital Ecosystems</h3>
-  <p>A modern, responsive portfolio showcasing full-stack development expertise</p>
+  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1887&auto=format&fit=crop" alt="Elias Nadder" width="200" style="border-radius: 50%; border: 4px solid #e2e8f0;" />
 </div>
 
-## ✨ Features
+### Hi, I'm **Elias Nadder** 👨‍💻
 
-### 🎨 **Modern Design**
+A 21-year-old **Full Stack Developer** from **Damascus, Syria**, passionate about creating innovative digital solutions. My journey in software development began with curiosity and has evolved into a deep expertise in building comprehensive digital ecosystems that connect **mobile applications**, **web platforms**, and **robust backends** seamlessly.
 
-- **Dark/Light Theme**: Seamless theme switching with system preference detection
-- **Responsive Design**: Optimized for all devices (mobile, tablet, desktop)
-- **Smooth Animations**: Framer Motion-powered transitions and micro-interactions
-- **Glass Morphism**: Modern backdrop blur effects and translucent elements
+### 🎯 My Philosophy
+Technology should serve the business logic, not the other way around. Whether I'm optimizing a Laravel API query or smoothing out a Flutter animation, my focus is always on **performance**, **user experience**, and **scalable architecture**.
 
-### 🛠️ **Technical Showcase**
+### 📍 Quick Facts
+- **📍 Location**: Damascus, Syria
+- **🎂 Age**: 21 Years Old
+- **☕ Fuel**: Espresso
+- **💼 Status**: Open to Work
 
-- **Project Filtering**: Advanced search and filter by technology, type, and keywords
-- **Interactive Cards**: Hover effects, dynamic layouts, and detailed project information
-- **Technology Tags**: Visual representation of tech stacks with consistent styling
-- **Live Demos**: Direct links to deployed applications and GitHub repositories
+### 🛠️ Tech Philosophy
+I believe in creating **complete digital ecosystems** rather than isolated applications. My approach combines:
+- **Backend Excellence**: Laravel APIs with MySQL databases
+- **Frontend Mastery**: React applications with TypeScript
+- **Mobile Innovation**: Flutter apps with native performance
+- **System Integration**: Seamless connections between all platforms
 
-### 📱 **Cross-Platform Expertise**
-
-- **Full-Stack Integration**: Laravel backends, React frontends, Flutter mobile apps
-- **Ecosystem Architecture**: Complete digital solutions connecting multiple platforms
-- **Performance Optimized**: Fast loading, efficient rendering, and smooth interactions
-
-### 🔧 **Developer Experience**
-
-- **TypeScript**: Full type safety and enhanced developer experience
-- **Component Architecture**: Modular, reusable React components
-- **Centralized Configuration**: Easy-to-edit constants and links management
-- **Modern Build Tools**: Vite for fast development and optimized production builds
-
-## 🌟 Featured Projects
-
-### 1. **OmniSync Enterprise Ecosystem**
-
-- **Tech Stack**: Flutter, React, TypeScript, Laravel, MySQL, WebSockets
-- **Description**: Complete logistics management platform connecting mobile drivers, web dashboards, and robust APIs
-
-### 2. **FinTech Analytics Pro**
-
-- **Tech Stack**: React, TypeScript, D3.js, Recharts, Zustand
-- **Description**: High-performance financial data visualization with real-time stock processing
-
-### 3. **Zenith Health Tracker**
-
-- **Tech Stack**: Flutter, Dart, Isar DB, Riverpod
-- **Description**: Native health integration with offline-first architecture
-
-### 4. **Momentum Social**
-
-- **Tech Stack**: Flutter, Firebase, Cloud Functions
-- **Description**: Real-time social media platform with optimized performance
-
-## 📞 Contact
+## � Contact
 
 **Elias Nadder**
 
-- **Location**: Damascus, Syria
-- **Email**: <hello@example.com>
-- **GitHub**: [@eliasnadder](https://github.com/eliasnadder)
-- **LinkedIn**: [/in/eliasnadder](https://linkedin.com/in/eliasnadder)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-  <p>Built with ❤️</p>
-</div>
+- **📧 Email**: [hello@example.com](mailto:hello@example.com)
+- **🐙 GitHub**: [@eliasnadder](https://github.com/eliasnadder)
+- **💼 LinkedIn**: [/in/eliasnadder](https://linkedin.com/in/eliasnadder)
+- **🌐 Portfolio**: [eliasnadder-portfolio.vercel.app](https://eliasnadder-portfolio.vercel.app)
