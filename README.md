@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/Lucide_React-0.562.0-000000?style=for-the-badge&logo=lucide" alt="Lucide React" />
 </div>
 
-## � About Me
-
+## About Me
+<!-- 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1887&auto=format&fit=crop" alt="Elias Nadder" width="200" style="border-radius: 50%; border: 4px solid #e2e8f0;" />
-</div>
+</div> -->
 
 ### Hi, I'm **Elias Nadder** 👨‍💻
 
@@ -34,7 +34,7 @@ I believe in creating **complete digital ecosystems** rather than isolated appli
 - **Mobile Innovation**: Flutter apps with native performance
 - **System Integration**: Seamless connections between all platforms
 
-## � Contact
+## Contact
 
 **Elias Nadder**
 
